@@ -1,0 +1,9 @@
+[submodule "hb-icu-ft"]
+	path = hb-icu-ft
+	url = https://github.com/tangrams/harfbuzz-icu-freetype.git
+[submodule "alfons"]
+	path = alfons
+	url = https://github.com/hjanetzek/alfons
+[submodule "glm"]
+	path = glm
+	url = https://github.com/g-truc/glm
